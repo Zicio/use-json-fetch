@@ -1,3 +1,7 @@
+[Ссылка на GP](https://zicio.github.io/use-json-fetch/)
+
+[Ссылка на задание](https://github.com/Zicio/ra16-homeworks/tree/master/hooks-context/use-json-fetch)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

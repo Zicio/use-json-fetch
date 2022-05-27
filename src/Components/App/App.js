@@ -1,0 +1,14 @@
+import UniComponent from "../UniComponent/UniComponent";
+import "./App.css";
+
+function App() {
+  return (
+    <div className="app">
+      <UniComponent type={"data"} />
+      <UniComponent type={"error"} />
+      <UniComponent type={"loading"} />
+    </div>
+  );
+}
+
+export default App;
