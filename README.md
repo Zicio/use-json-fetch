@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ywo3adkfjpudjj2d?svg=true)](https://ci.appveyor.com/project/Zicio/use-json-fetch)
+
 [Ссылка на GP](https://zicio.github.io/use-json-fetch/)
 
 [Ссылка на задание](https://github.com/Zicio/ra16-homeworks/tree/master/hooks-context/use-json-fetch)
