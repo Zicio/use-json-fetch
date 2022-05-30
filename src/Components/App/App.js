@@ -1,5 +1,4 @@
 import UniComponent from "../UniComponent/UniComponent";
-import "./App.css";
 
 function App() {
   return (
